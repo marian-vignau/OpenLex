@@ -52,11 +52,16 @@ o bien clone en el subdirectorio applications
 Ejecute web2py:
 > python.exe web2py.py
 
+o en Linux
+
+> python3 web2py.py
+
 Abra el navegador de internet e ingrese el link http://127.0.0.1:8000/OpenLex/default/index
 
 puede ingresar como usuarios de prueba
 
 user: egomez@user.com  contraseña: egomez
+
 user: jperez@user.com  contraseña: jperez
 
 Para más información sobre la estructura interna del sistema:
